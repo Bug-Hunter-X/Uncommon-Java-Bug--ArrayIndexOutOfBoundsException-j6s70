@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon but crucial error in Java programming: the ArrayIndexOutOfBoundsException.  The bug arises from attempting to access an array element using an invalid index. The solution provides a corrected version that prevents the exception.  Understanding this error is key to writing robust and error-free Java applications.
